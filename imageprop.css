@@ -1,0 +1,79 @@
+@media only screen and (min-width:903px){
+    img{
+        float: right;
+        margin-right: 7.62vw;
+        margin-top: 16.77vh;
+    }
+    .bichu{
+        margin-right: 57.92vmax;
+        margin-left: 4.5vmax;
+    }
+    .verline{
+        /* margin-left: 155px; */
+        margin-right: 45.73vmax;
+    }
+    .Table3{
+        margin-left: 39vw;
+    }
+}
+@media only screen and (max-width:903px) and (min-width:572px){
+    img{
+        float: right;
+        margin-right: 7.62vw;
+        margin-top: 16.77vh;
+    }
+    .bichu{
+        margin-right: 57.92vmax;
+        margin-left: 4.5vmax;
+    }
+    .verline{
+        /* margin-left: 155px; */
+        /* margin-right: 5.73vmax; */
+        text-align: left;
+    } 
+    .Table3{
+        margin-left: 38vw;
+    }
+}
+@media only screen and (max-width:571px) and (min-width:412px){
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0vh;
+    }
+    .a1{
+        /* margin-right: 1vw; */
+        margin-left: 25vw;
+        /* text-align: center; */
+    }
+    .verline{
+        margin-left: 20.5vw;
+        /* margin-right: 45.73vmax; */
+        /* text-align: center; */
+    }
+    .Table3{
+        margin-left: 28vw;
+    }
+}
+@media only screen and (max-width:412px){
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0vh;
+    }
+    .a1{
+        /* margin-right: 1vw; */
+        margin-left: 4vw;
+        /* text-align: center; */
+    }
+    .verline{
+        margin-left: -7vw;
+        /* margin-right: 45.73vmax; */
+        /* text-align: center; */
+    }
+    .Table3{
+        margin-left: 23vw;
+    }
+}
